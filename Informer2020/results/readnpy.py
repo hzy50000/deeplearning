@@ -3,9 +3,9 @@ import matplotlib.pyplot as plt
 
 folder = 'informer_2021_ftM_sl96_ll48_pl24_dm512_nh8_el2_dl1_df2048_atprob_fc5_ebtimeF_dtTrue_mxTrue_test_0'
 pred = np.load(
-    'informer_2021_ftM_sl96_ll48_pl24_dm512_nh8_el2_dl1_df2048_atprob_fc5_ebtimeF_dtTrue_mxTrue_test_1/pred.npy')
+    '1/pred.npy')
 true = np.load(
-    'informer_2021_ftM_sl96_ll48_pl24_dm512_nh8_el2_dl1_df2048_atprob_fc5_ebtimeF_dtTrue_mxTrue_test_1/true.npy')
+    '1/true.npy')
 
 print(pred.shape)
 print(true.shape)
