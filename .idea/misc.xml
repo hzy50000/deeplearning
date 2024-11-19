@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="regional_pmm" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="regional_pmm" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="informer" project-jdk-type="Python SDK" />
 </project>
